@@ -18,3 +18,6 @@ You can read more on [this blog post about Treeware](https://jamesmills.co.uk/20
 * [lloople/phpunit-extensions](https://packagist.org/packages/lloople/phpunit-extensions) - Slow tests report for PHPUnit
 * [astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 * [astrotomic/stancy](https://github.com/Astrotomic/stancy) - A file based CMS package that you can integrate in all Laravel apps.
+
+# Learning Resources which use Treeware
+* [codecraft.tv](https://codecraft.tv) - Specialist training for Angular & JavaScript
