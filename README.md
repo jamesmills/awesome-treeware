@@ -6,6 +6,6 @@ You can read more on [this blog post about Treeware](https://jamesmills.co.uk/20
 
 # Packages which use Treeware
 * [jamesmills/laravel-timezone](https://packagist.org/packages/jamesmills/laravel-timezone) - Timezone storage and retrieval for Laravel
-
+* [lloople/phpunit-extensions](https://packagist.org/packages/lloople/phpunit-extensions) - Slow tests report for PHPUnit
 
 
