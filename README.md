@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re)
 
 
-# Treeware
+# Awesome Treeware
 A list of packages using Treeware. 
 
 You can read more on [this blog post about Treeware](https://jamesmills.co.uk/2019/12/02/my-packages-are-now-treeware/?utm_source=github&utm_medium=link&utm_campaign=readme).
