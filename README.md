@@ -10,6 +10,8 @@ You can read more on [this blog post about Treeware](https://jamesmills.co.uk/20
 
 # Packages which use Treeware
 * [jamesmills/laravel-timezone](https://packagist.org/packages/jamesmills/laravel-timezone) - Timezone storage and retrieval for Laravel
+* [jamesmills/eloquent-uuid](https://packagist.org/packages/jamesmills/eloquent-uuid) - A Laravel Eloquent Model trait for adding and using a uuid with models
+* [jamesmills/watchable](https://packagist.org/packages/jamesmills/watchable) - A package to allow your Models to become watchable by a User
 * [lloople/phpunit-extensions](https://packagist.org/packages/lloople/phpunit-extensions) - Slow tests report for PHPUnit
 
 
