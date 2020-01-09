@@ -4,7 +4,7 @@
 # Awesome Treeware
 A list of packages using Treeware. 
 
-You can read more on [this blog post about Treeware](https://jamesmills.co.uk/2019/12/02/my-packages-are-now-treeware/?utm_source=github&utm_medium=link&utm_campaign=readme).
+You can read more on [this blog post about Treeware](https://jamesmills.co.uk/2019/12/02/my-packages-are-now-treeware/?utm_source=github&utm_medium=link&utm_campaign=readme) and you can link to this page using [treeware.earth](http://treeware.earth)
 
 # How to use
 1. Create your own profile on [https://offset.earth](https://offset.earth/?r=5ddfb08095bacf0018629749)
