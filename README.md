@@ -16,5 +16,5 @@ You can read more on [this blog post about Treeware](https://jamesmills.co.uk/20
 * [jamesmills/eloquent-uuid](https://packagist.org/packages/jamesmills/eloquent-uuid) - A Laravel Eloquent Model trait for adding and using a uuid with models
 * [jamesmills/watchable](https://packagist.org/packages/jamesmills/watchable) - A package to allow your Models to become watchable by a User
 * [lloople/phpunit-extensions](https://packagist.org/packages/lloople/phpunit-extensions) - Slow tests report for PHPUnit
-
-
+* [astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
+* [astrotomic/stancy](https://github.com/Astrotomic/stancy) - A file based CMS package that you can integrate in all Laravel apps.
