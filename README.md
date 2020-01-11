@@ -18,6 +18,10 @@ You can read more on [this blog post about Treeware](https://jamesmills.co.uk/20
 * [lloople/phpunit-extensions](https://packagist.org/packages/lloople/phpunit-extensions) - Slow tests report for PHPUnit
 * [astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 * [astrotomic/stancy](https://github.com/Astrotomic/stancy) - A file based CMS package that you can integrate in all Laravel apps.
+* [Laratables](https://github.com/freshbitsweb/laratables) - Ajax support of DataTables (Laravel 5.5 - Laravel 6.0).
+* [Laravel Cart Manager](https://github.com/freshbitsweb/laravel-cart-manager) - Managing the cart in your Laravel/E-commerce application is a breeze.
+* [Laravel Log Enhancer](https://github.com/freshbitsweb/laravel-log-enhancer) - Make debugging easier by adding more data to your laravel logs (Laravel 5.6 to Laravel 6.0).
+
 
 # Learning Resources which use Treeware
 * [codecraft.tv](https://codecraft.tv) - Specialist training for Angular & JavaScript
